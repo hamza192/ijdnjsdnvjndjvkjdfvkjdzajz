@@ -32,7 +32,7 @@ client.user.setGame(`3play`,"https://www.twitch.tv/Anime & Games")
   console.log(' Bot Is Online')
   console.log('╚[════════════]╝')
   console.log('')
-  console.log('')ق
+  console.log('')
 });
 
 
